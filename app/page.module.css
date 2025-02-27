@@ -44,6 +44,13 @@
   list-style-position: inside;
 }
 
+.main p {
+  font-family: var(--font-geist-mono);
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+}
+
 .main li:not(:last-of-type) {
   margin-bottom: 8px;
 }
