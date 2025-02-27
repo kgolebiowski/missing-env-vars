@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) and see the proper env value
 TEST="Set during build" npm run build
 ```
 
-2. Build the app with different runtime env
+2. Run the app with different runtime env
 ```bash
 TEST="Set during startup" npm run start
 ```
